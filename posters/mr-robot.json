@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "Mr Robot USA series poster",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0000c156cd8c.jpg",
+      "caption": "",
+      "source": "The Hollywood Reporter",
+      "original_width": "1047px",
+      "original_height": "1572px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/18e6dcc077da.jpg",
+      "caption": "",
+      "source": "The Movie Database",
+      "original_width": "1000px",
+      "original_height": "1500px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/aac44e3c0f8f.jpg",
+      "caption": "",
+      "source": "Amazon.ie",
+      "original_width": "1600px",
+      "original_height": "1600px"
+    }
+  ]
+}

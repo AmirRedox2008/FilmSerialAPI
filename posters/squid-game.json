@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "Squid Game Netflix Korean series poster",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0acb831043d2.jpg",
+      "caption": "",
+      "source": "IMDb",
+      "original_width": "1000px",
+      "original_height": "1481px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c5b24553ffae.jpg",
+      "caption": "",
+      "source": "Netflix",
+      "original_width": "1013px",
+      "original_height": "1500px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/506955c2c097.jpg",
+      "caption": "",
+      "source": "About Netflix",
+      "original_width": "2845px",
+      "original_height": "1500px"
+    }
+  ]
+}

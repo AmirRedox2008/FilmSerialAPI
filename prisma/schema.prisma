@@ -1,0 +1,109 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id        Int        @id @default(autoincrement())
+  name      String
+  email     String     @unique
+  password  String
+  role      String     @default("user")
+  reviews   Review[]
+  ratings   Rating[]
+  favorites Favorite[]
+  createdAt DateTime   @default(now())
+}
+
+model Genre {
+  id     Int          @id @default(autoincrement())
+  name   String       @unique
+  slug   String       @unique
+  titles TitleGenre[]
+}
+
+model Title {
+  id            Int          @id @default(autoincrement())
+  type          String
+  title         String
+  originalTitle String
+  slug          String       @unique
+  description   String
+  poster        String
+  year          Int
+  duration      Int?
+  country       String       @default("")
+  rating        Float        @default(0)
+  votes         Int          @default(0)
+  featured      Boolean      @default(false)
+  cast          String       @default("[]")
+  searchText    String       @default("")
+  genres        TitleGenre[]
+  seasons       Season[]
+  reviews       Review[]
+  ratings       Rating[]
+  favorites     Favorite[]
+  createdAt     DateTime     @default(now())
+}
+
+model Season {
+  id       Int       @id @default(autoincrement())
+  titleId  Int
+  title    Title     @relation(fields: [titleId], references: [id], onDelete: Cascade)
+  number   Int
+  episodes Episode[]
+}
+
+model Episode {
+  id       Int    @id @default(autoincrement())
+  seasonId Int
+  season   Season @relation(fields: [seasonId], references: [id], onDelete: Cascade)
+  number   Int
+  name     String
+  duration Int?
+}
+
+model TitleGenre {
+  titleId Int
+  genreId Int
+  title   Title @relation(fields: [titleId], references: [id], onDelete: Cascade)
+  genre   Genre @relation(fields: [genreId], references: [id], onDelete: Cascade)
+
+  @@id([titleId, genreId])
+}
+
+model Review {
+  id        Int      @id @default(autoincrement())
+  userId    Int
+  titleId   Int
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  title     Title    @relation(fields: [titleId], references: [id], onDelete: Cascade)
+  body      String
+  createdAt DateTime @default(now())
+
+  @@unique([userId, titleId])
+}
+
+model Rating {
+  userId  Int
+  titleId Int
+  score   Int
+  user    User  @relation(fields: [userId], references: [id], onDelete: Cascade)
+  title   Title @relation(fields: [titleId], references: [id], onDelete: Cascade)
+
+  @@id([userId, titleId])
+}
+
+model Favorite {
+  userId    Int
+  titleId   Int
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  title     Title    @relation(fields: [titleId], references: [id], onDelete: Cascade)
+  createdAt DateTime @default(now())
+
+  @@id([userId, titleId])
+}

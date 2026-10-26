@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "Peaky Blinders BBC series poster",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c177c7f38ff1.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "1238px",
+      "original_height": "1500px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/36dad56f6b03.jpg",
+      "caption": "",
+      "source": "eBay",
+      "original_width": "1200px",
+      "original_height": "950px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/40b681a81178.jpg",
+      "caption": "",
+      "source": "Celebrity Magazines",
+      "original_width": "3024px",
+      "original_height": "4032px"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "Up 2009 Pixar animated movie poster",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/440991fef957.jpg",
+      "caption": "",
+      "source": "DeviantArt",
+      "original_width": "1280px",
+      "original_height": "854px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/eca5c48a226d.jpg",
+      "caption": "",
+      "source": "funsalprodese",
+      "original_width": "2560px",
+      "original_height": "3413px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/459a334754e7.jpg",
+      "caption": "",
+      "source": "IMDb",
+      "original_width": "2048px",
+      "original_height": "1282px"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "Pulp Fiction 1994 movie poster",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/cf0b5ecd4f7f.webp",
+      "caption": "",
+      "source": "Original Film Art",
+      "original_width": "2041px",
+      "original_height": "3000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/cb901f4329f6.jpg",
+      "caption": "",
+      "source": "eBay",
+      "original_width": "782px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f1876dc8b85e.jpg",
+      "caption": "",
+      "source": "Flex Design Store",
+      "original_width": "1500px",
+      "original_height": "1500px"
+    }
+  ]
+}

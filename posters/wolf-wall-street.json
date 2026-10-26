@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "The Wolf of Wall Street 2013 movie poster",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5f868506d78e.jpg",
+      "caption": "",
+      "source": "Etsy",
+      "original_width": "3000px",
+      "original_height": "2250px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e6ed25626df2.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "1140px",
+      "original_height": "1032px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2ba09d4922f1.png",
+      "caption": "",
+      "source": "eBay",
+      "original_width": "859px",
+      "original_height": "1200px"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "The Dark Knight 2008 movie poster",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8802f5a380e6.jpg",
+      "caption": "",
+      "source": "MythicWall",
+      "original_width": "1024px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f38e5a4930f4.png",
+      "caption": "",
+      "source": "The Moment Posters",
+      "original_width": "1920px",
+      "original_height": "1920px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f93fa88ccb39.jpg",
+      "caption": "",
+      "source": "My Movies - The Movie & TV Network",
+      "original_width": "2000px",
+      "original_height": "3000px"
+    }
+  ]
+}

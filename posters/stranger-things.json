@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "Stranger Things Netflix series poster",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d6cc31049e0f.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "1185px",
+      "original_height": "1800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/72c9b1127895.jpg",
+      "caption": "",
+      "source": "eBay",
+      "original_width": "810px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ff82e6d1fe26.jpg",
+      "caption": "",
+      "source": "Deadline",
+      "original_width": "800px",
+      "original_height": "999px"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "Whiplash 2014 movie poster",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/bf87150192a7.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "1910px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a177427ad1fc.jpg",
+      "caption": "",
+      "source": "The Movie Database",
+      "original_width": "2000px",
+      "original_height": "3000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1ee150d8d0e2.jpg",
+      "caption": "",
+      "source": "Amazon.ca",
+      "original_width": "1600px",
+      "original_height": "1600px"
+    }
+  ]
+}

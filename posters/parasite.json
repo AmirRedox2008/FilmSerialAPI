@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "Parasite 2019 Korean movie poster",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b6e58477a33c.jpg",
+      "caption": "",
+      "source": "Posteritati",
+      "original_width": "960px",
+      "original_height": "1367px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f5310e466b6b.png",
+      "caption": "",
+      "source": "98 Types Studio",
+      "original_width": "957px",
+      "original_height": "958px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4167ef36a3f0.jpg",
+      "caption": "",
+      "source": "movie-poster",
+      "original_width": "1600px",
+      "original_height": "1417px"
+    }
+  ]
+}

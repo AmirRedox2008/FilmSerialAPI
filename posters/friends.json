@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "Friends TV sitcom poster",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6d047496d257.jpg",
+      "caption": "",
+      "source": "MythicWall",
+      "original_width": "1024px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c3dc90fb4f80.jpg",
+      "caption": "",
+      "source": "eBay",
+      "original_width": "914px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4d02b28722e8.jpg",
+      "caption": "",
+      "source": "Europosters.eu",
+      "original_width": "867px",
+      "original_height": "1300px"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "The Matrix 1999 movie poster",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/473e2b0b5f54.jpg",
+      "caption": "",
+      "source": "www.originalfilmart.com",
+      "original_width": "1040px",
+      "original_height": "1500px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8fcee27220f1.png",
+      "caption": "",
+      "source": "popcornposter.com",
+      "original_width": "2400px",
+      "original_height": "2400px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2f2573ef954b.jpeg",
+      "caption": "",
+      "source": "www.reddit.com",
+      "original_width": "3072px",
+      "original_height": "4080px"
+    }
+  ]
+}

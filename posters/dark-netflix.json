@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "Dark Netflix German series poster",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/53223f6cd09a.jpg",
+      "caption": "",
+      "source": "Redbubble",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b8c52ee08360.jpg",
+      "caption": "",
+      "source": "IMDb",
+      "original_width": "1365px",
+      "original_height": "2048px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2e9ac42cd132.jpg",
+      "caption": "",
+      "source": "WallpaperCat",
+      "original_width": "1280px",
+      "original_height": "2120px"
+    }
+  ]
+}

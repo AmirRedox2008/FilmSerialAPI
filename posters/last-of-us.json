@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "The Last of Us HBO series poster",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/39fb5836c572.jpg",
+      "caption": "",
+      "source": "IMDb",
+      "original_width": "1383px",
+      "original_height": "2048px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ab554664d415.png",
+      "caption": "",
+      "source": "Bloody Disgusting",
+      "original_width": "1323px",
+      "original_height": "750px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3c6657ad6c48.jpg",
+      "caption": "",
+      "source": "The Hollywood Reporter",
+      "original_width": "1296px",
+      "original_height": "730px"
+    }
+  ]
+}

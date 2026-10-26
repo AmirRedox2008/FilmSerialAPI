@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "Inception 2010 movie poster",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0cd4c2f172f6.jpg",
+      "caption": "",
+      "source": "Original Film Art",
+      "original_width": "1659px",
+      "original_height": "2440px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9deef46b4009.jpg",
+      "caption": "",
+      "source": "The Movie Database",
+      "original_width": "2000px",
+      "original_height": "3000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/fb4f0a2cc4b2.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "789px",
+      "original_height": "1000px"
+    }
+  ]
+}

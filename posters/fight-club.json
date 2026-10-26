@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "Fight Club 1999 movie poster",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5a82f733bf55.jpg",
+      "caption": "",
+      "source": "eBay",
+      "original_width": "800px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/00568c20892a.jpeg",
+      "caption": "",
+      "source": "Reddit",
+      "original_width": "1024px",
+      "original_height": "1536px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/09e334c56127.jpg",
+      "caption": "",
+      "source": "Redbubble",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    }
+  ]
+}

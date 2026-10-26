@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "Game of Thrones TV series poster",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8cd6f50c28d2.jpg",
+      "caption": "",
+      "source": "Rotten Tomatoes",
+      "original_width": "1920px",
+      "original_height": "2880px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b90d4e04ecfa.jpg",
+      "caption": "",
+      "source": "eBay",
+      "original_width": "896px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b73dc79e35aa.jpeg",
+      "caption": "",
+      "source": "Phone Wallpapers - Mob.org",
+      "original_width": "1080px",
+      "original_height": "2400px"
+    }
+  ]
+}

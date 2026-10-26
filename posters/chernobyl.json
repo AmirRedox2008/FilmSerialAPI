@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "Chernobyl HBO miniseries poster",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8f5a3cecee1e.jpg",
+      "caption": "",
+      "source": "DeviantArt",
+      "original_width": "1000px",
+      "original_height": "1500px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c781dc35299d.jpg",
+      "caption": "",
+      "source": "Amazon.de",
+      "original_width": "1910px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e58102391957.jpg",
+      "caption": "",
+      "source": "Amazon.de",
+      "original_width": "1292px",
+      "original_height": "1651px"
+    }
+  ]
+}

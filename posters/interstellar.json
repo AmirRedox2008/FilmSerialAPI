@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "Interstellar 2014 movie poster",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f045aa8715c8.jpg",
+      "caption": "",
+      "source": "98types",
+      "original_width": "957px",
+      "original_height": "958px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ea31615157d2.jpg",
+      "caption": "",
+      "source": "Pinterest",
+      "original_width": "736px",
+      "original_height": "1137px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9c3b76bb944c.jpg",
+      "caption": "",
+      "source": "Reddit",
+      "original_width": "2000px",
+      "original_height": "2500px"
+    }
+  ]
+}

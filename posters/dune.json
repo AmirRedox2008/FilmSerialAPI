@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "Dune 2021 movie poster",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2c0305f2b230.jpg",
+      "caption": "",
+      "source": "Reddit",
+      "original_width": "1656px",
+      "original_height": "2265px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a58ad5c78f08.png",
+      "caption": "",
+      "source": "DeviantArt",
+      "original_width": "1920px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a2c239a06df4.png",
+      "caption": "",
+      "source": "DeviantArt",
+      "original_width": "932px",
+      "original_height": "1400px"
+    }
+  ]
+}

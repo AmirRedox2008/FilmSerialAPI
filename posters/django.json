@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "query": "Django Unchained 2012 movie poster",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1f19f36ca0fa.jpg",
+      "caption": "",
+      "source": "eBay",
+      "original_width": "1200px",
+      "original_height": "675px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/11daa29e90f9.jpg",
+      "caption": "",
+      "source": "Flex Design Store",
+      "original_width": "1500px",
+      "original_height": "1500px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c1a14d12acb6.jpg",
+      "caption": "",
+      "source": "Psychology Today",
+      "original_width": "1200px",
+      "original_height": "675px"
+    }
+  ]
+}
