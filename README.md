@@ -76,3 +76,12 @@ npm run dev
 | GET/POST/DELETE | /api/favorites | لیست علاقه‌مندی |
 | GET/POST | /api/genres | ژانرها |
 | POST/PUT/DELETE | /api/titles | مدیریت (فقط ادمین) |
+
+
+
+## تصاویر 
+<img width="1920" height="2104" alt="Screenshot 2026-10-26 at 04-36-39 فیلم_لند مرجع فیلم و سریال" src="https://github.com/user-attachments/assets/9e5301bc-3c38-4ece-a5ea-9aae7d754f66" />
+
+
+<img width="1920" height="1969" alt="Screenshot 2026-10-26 at 04-34-59 فیلم_لند مرجع فیلم و سریال" src="https://github.com/user-attachments/assets/3431530d-4528-4cd5-8163-cdd169deaddd" />
+
